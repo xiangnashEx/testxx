@@ -6,3 +6,4 @@ repos
 anther line
 i love u
 i'm a
+file.txt
